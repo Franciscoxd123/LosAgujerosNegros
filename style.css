@@ -1,0 +1,43 @@
+body {
+    background-image: url(background.jpeg);
+    background-size: 100% 100%;
+
+
+}
+
+
+header h1 {
+    text-align: center;
+    font-size: 4rem;
+    color: #fff;
+}
+
+.sectsion {
+    width: 500px;
+    margin: 0 auto;
+}
+
+section article{
+    background-color: #000041;
+    padding: 0.3rem 0;
+    margin: 0.5rem 0;
+    width: 500px;
+    color: #fff;
+}
+
+section article h2, section article p{
+    text-align: center;
+}
+
+footer{
+    background-color: #222;
+    padding: 3rem 4rem;
+}
+footer a {
+    float: right;
+    color: white;
+}
+footer p{
+    margin: 0;
+    color: #fff;
+}
